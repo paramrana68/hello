@@ -1,2 +1,3 @@
 # hello
-first git hub project
+my first commit
+hello world
